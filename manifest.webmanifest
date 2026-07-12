@@ -1,0 +1,16 @@
+{
+  "name": "Mukoma Stock & Credit",
+  "short_name": "Mukoma",
+  "description": "Retail inventory and customer credit tracking for Mukoma General Dealers",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#1C1B1F",
+  "theme_color": "#1C1B1F",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
